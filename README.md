@@ -1,7 +1,6 @@
 # 👋 Hello, World! 
 
-### Hi There:D
-
+Hi There:D
 I'm island, a passionate Developer from Earth🌍. I love coding and creating interesting projects. Here's a little about me:
 
 - 💻 I'm currently working on some cool projects.
