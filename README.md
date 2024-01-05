@@ -23,4 +23,4 @@ I'm island, a passionate Developer from Earth🌍. I love coding and creating in
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=island-dev&hide=contribs,stars)
 
 ## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=island-dev&layout=compact&theme=radical)
