@@ -20,7 +20,7 @@ I'm island, a passionate Developer from Earth🌍. I love coding and creating in
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 ## 🚀 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=island-dev)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=island-dev&hide=contribs,stars)
 
 ## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
