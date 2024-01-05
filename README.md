@@ -5,7 +5,7 @@ I'm island, a passionate Developer from Earth🌍. I love coding and creating in
 - 👾 I'm currently working on some cool projects.
 - 🌱 I'm currently learning NextJS, NestJS and Framework Development!
 - 🤝 I'm looking to collaborate on Profilio(Coming soon!).
-- 📫 How to reach me: explee.island@gmail.com or [Twitter](https://twitter.com/island_0205).
+- 📫 How to reach me: Message me on discord(id = .mdn.) or [Twitter](https://twitter.com/island_0205).
 - 😄 Pronouns: He/Him
 
 ## 🔧 Technologies & Tools
