@@ -1,6 +1,6 @@
 # 👋 Hello, World! 
 
-I'm island, a passionate Developer from Earth🌍. I love coding and creating interesting projects. Here's a little about me:
+I'm island, a passionate Developer from island 🏝. I love coding and creating interesting projects. Here's a little about me:
 
 - 👾 I'm currently working on some cool projects.
 - 🌱 I'm currently learning NextJS, NestJS and Framework Development!
