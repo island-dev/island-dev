@@ -25,5 +25,9 @@ I'm island, a passionate Developer from island 🏝. I love coding and creating 
 ## 🚀 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=island-dev&hide=contribs,stars)
 
+## Star History([kinro-api](https://github.com/island-dev/kinro-api/))
+
+[![Star History Chart](https://api.star-history.com/svg?repos=island-dev/kinro-api&type=Date)](https://star-history.com/#island-dev/kinro-api&Date)
+
 ## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=island-dev&layout=compact&theme=radical)
