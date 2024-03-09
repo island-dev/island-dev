@@ -17,7 +17,7 @@ I'm island, a passionate Developer from island 🏝. I love coding and creating 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-## <img src="https://cdn.discordapp.com/attachments/1074691437632950304/1205474907018760262/discord-mark-blue.png?ex=65d880fe&is=65c60bfe&hm=319def14533b8dbc94b6b3eda813ae8a1b27b41a52fb83b0cc40741b6b016d78&" alt="." width="20" height="16"/> Discord
+## Discord Status
 <a href="https://discord.com/users/1028941875945684992" align="left">
     <img src="https://lanyard.cnrad.dev/api/1028941875945684992?theme=dark&animated=true&idleMessage=I%27m+developing+Profilio%21+Coming+Soon%21&showDisplayName=true&bg=5f61e0">
 </a>
