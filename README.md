@@ -3,7 +3,7 @@
 I'm island, a passionate Developer from island 🏝. I love coding and creating interesting projects. Here's a little about me:
 
 - 👾 I'm currently working on some cool projects.
-- 🌱 I'm currently learning NextJS, NestJS and Framework Development!
+- 🌱 I'm currently learning Deno, Hono and Framework Development!
 - 🤝 I'm looking to collaborate on Profilio(Coming soon!).
 - 📫 How to reach me: Message me on discord(id : island_dev) or [Twitter](https://twitter.com/island_0205).
 - 😄 Pronouns: He/Him
@@ -16,6 +16,7 @@ I'm island, a passionate Developer from island 🏝. I love coding and creating 
 ![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ## Discord Status
 <a href="https://discord.com/users/1028941875945684992" align="left">
